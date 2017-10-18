@@ -17,7 +17,7 @@ export default new Router({
     },
     {
       path:'/today',
-      name:'today',
+      name:'todaynew',
       component:AppTodayNew
 
     },
